@@ -1,0 +1,29 @@
+Welcome to the FreeCup app, your new companion for earning and redeeming rewards at your favorite coffee shops. Forget about carrying around paper loyalty cards and start enjoying your coffee in a smarter, more convenient way.
+
+Features:
+
+Digital Loyalty Card: Easily track your coffee purchases and rewards directly on your phone. Every time you buy a coffee, scan the QR code to update your card.
+Multiple Coffee Shops: Add multiple coffee shops to your app and manage your loyalty cards for each one. Perfect for coffee enthusiasts who love trying different places.
+Secure and Encrypted: Your data is safe with us. All information is encrypted to ensure your loyalty points and rewards are secure.
+Offline Functionality: No internet? No problem! Our app works offline, so you can earn and redeem rewards anytime, anywhere.
+Role Management: Whether you’re a barista or a customer, the app caters to both roles. Baristas can register and manage coffee shops, while customers can easily join and track their points.
+QR Code Integration: Use QR codes to communicate between baristas and customers. Simply scan the code to update your loyalty points.
+Customizable Loyalty Programs: Coffee shops can set up different loyalty programs for various types of drinks, ensuring that customers get the best deals.
+Easy Cloning for Baristas: Baristas can easily clone coffee shop details and share them with colleagues to streamline operations.
+
+How It Works:
+
+Register Your Coffee Shop: Baristas can register their coffee shop by entering the necessary details and generating an access key.
+Add a Coffee Shop: Customers can add their favorite coffee shops by scanning the QR code provided by the barista.
+Earn Points: Buy a coffee and scan the QR code to add a cup to your digital loyalty card.
+Redeem Rewards: Once you reach the required number of cups, redeem your free coffee and start a new card.
+Stay Organized: Keep track of all your favorite coffee shops and your progress in one place.
+
+Why Choose Us?
+
+Convenience: No need to carry multiple paper cards. Everything you need is right on your phone.
+Security: Advanced encryption ensures your data is always protected.
+Flexibility: Supports multiple coffee shops and loyalty programs.
+User-Friendly: Simple, intuitive design makes it easy for anyone to use.
+
+Download the FreeCup app today and start enjoying your coffee with added rewards and convenience!
