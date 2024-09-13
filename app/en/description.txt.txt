@@ -1,3 +1,8 @@
+FreeCup
+-----------------------------
+Coffee Shop Loyalty Card
+-----------------------------
+
 Welcome to the FreeCup app, your new companion for earning and redeeming rewards at your favorite coffee shops. Forget about carrying around paper loyalty cards and start enjoying your coffee in a smarter, more convenient way.
 
 Features:
